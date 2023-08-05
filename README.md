@@ -10,6 +10,8 @@
 
 API 명세서 : [명세서](https://docs.google.com/spreadsheets/d/18N-oHqhDXmBjzYYKPYeN8ghFRAOXBLCZdJJ8N4JHpjg/edit?usp=sharing)
 
+시연 영상 링크 : [Youtube](https://www.youtube.com/watch?v=xDSjSDFg9yM)
+
 FE-Repository : https://github.com/CowDogHome/Clone-FE
 
 BE-Repository : https://github.com/CowDogHome/Clone-BE
